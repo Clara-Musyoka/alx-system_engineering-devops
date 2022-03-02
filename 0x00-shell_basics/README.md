@@ -5,3 +5,4 @@ Task 4 to list in long format
 task 5 la format of listing
 task 6 doing use and group IDs numerically
 task 7 making a directory 
+Task 7 moving files
